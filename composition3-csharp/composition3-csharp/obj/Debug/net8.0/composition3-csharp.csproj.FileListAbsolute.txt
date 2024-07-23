@@ -1,0 +1,15 @@
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\composition3-csharp\composition3-csharp\bin\Debug\net8.0\composition3-csharp.exe
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\composition3-csharp\composition3-csharp\bin\Debug\net8.0\composition3-csharp.deps.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\composition3-csharp\composition3-csharp\bin\Debug\net8.0\composition3-csharp.runtimeconfig.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\composition3-csharp\composition3-csharp\bin\Debug\net8.0\composition3-csharp.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\composition3-csharp\composition3-csharp\bin\Debug\net8.0\composition3-csharp.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\composition3-csharp\composition3-csharp\obj\Debug\net8.0\composition3-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\composition3-csharp\composition3-csharp\obj\Debug\net8.0\composition3-csharp.AssemblyInfoInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\composition3-csharp\composition3-csharp\obj\Debug\net8.0\composition3-csharp.AssemblyInfo.cs
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\composition3-csharp\composition3-csharp\obj\Debug\net8.0\composition3-csharp.csproj.CoreCompileInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\composition3-csharp\composition3-csharp\obj\Debug\net8.0\composition3-csharp.sourcelink.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\composition3-csharp\composition3-csharp\obj\Debug\net8.0\composition3-csharp.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\composition3-csharp\composition3-csharp\obj\Debug\net8.0\refint\composition3-csharp.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\composition3-csharp\composition3-csharp\obj\Debug\net8.0\composition3-csharp.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\composition3-csharp\composition3-csharp\obj\Debug\net8.0\composition3-csharp.genruntimeconfig.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\composition3-csharp\composition3-csharp\obj\Debug\net8.0\ref\composition3-csharp.dll
