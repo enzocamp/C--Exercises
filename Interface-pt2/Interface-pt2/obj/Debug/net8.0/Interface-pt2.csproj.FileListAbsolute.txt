@@ -1,0 +1,15 @@
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Interface-pt2\Interface-pt2\bin\Debug\net8.0\Interface-pt2.exe
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Interface-pt2\Interface-pt2\bin\Debug\net8.0\Interface-pt2.deps.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Interface-pt2\Interface-pt2\bin\Debug\net8.0\Interface-pt2.runtimeconfig.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Interface-pt2\Interface-pt2\bin\Debug\net8.0\Interface-pt2.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Interface-pt2\Interface-pt2\bin\Debug\net8.0\Interface-pt2.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Interface-pt2\Interface-pt2\obj\Debug\net8.0\Interface-pt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Interface-pt2\Interface-pt2\obj\Debug\net8.0\Interface-pt2.AssemblyInfoInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Interface-pt2\Interface-pt2\obj\Debug\net8.0\Interface-pt2.AssemblyInfo.cs
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Interface-pt2\Interface-pt2\obj\Debug\net8.0\Interface-pt2.csproj.CoreCompileInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Interface-pt2\Interface-pt2\obj\Debug\net8.0\Interface-pt2.sourcelink.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Interface-pt2\Interface-pt2\obj\Debug\net8.0\Interface-pt2.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Interface-pt2\Interface-pt2\obj\Debug\net8.0\refint\Interface-pt2.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Interface-pt2\Interface-pt2\obj\Debug\net8.0\Interface-pt2.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Interface-pt2\Interface-pt2\obj\Debug\net8.0\Interface-pt2.genruntimeconfig.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Interface-pt2\Interface-pt2\obj\Debug\net8.0\ref\Interface-pt2.dll
