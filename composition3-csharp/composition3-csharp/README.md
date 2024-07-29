@@ -1,4 +1,4 @@
-# Resolvendo problema do diamante
+# Resolvendo problema de composição
 
 Este exercício precisava que a apenas a classe Cicle tivesse o atributo Color, e implementasse a função Area(). Enquanto na classe Retangle, implementasse apenas o método Area().
 
