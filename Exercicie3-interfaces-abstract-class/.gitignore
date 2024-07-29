@@ -1,0 +1,19 @@
+# Ignore arquivos de build
+bin/
+obj/
+
+# Ignore arquivos de usuário e IDE
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore arquivos de configuração local
+appsettings.*.json
+
+# Ignore diretórios de ambiente
+.env/
+
+# Ignore diretório de configurações do Visual Studio
+.vs/
