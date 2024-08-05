@@ -1,0 +1,15 @@
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Exercicie-Dictionary\Exercicie-Dictionary\bin\Debug\net8.0\Exercicie-Dictionary.exe
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Exercicie-Dictionary\Exercicie-Dictionary\bin\Debug\net8.0\Exercicie-Dictionary.deps.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Exercicie-Dictionary\Exercicie-Dictionary\bin\Debug\net8.0\Exercicie-Dictionary.runtimeconfig.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Exercicie-Dictionary\Exercicie-Dictionary\bin\Debug\net8.0\Exercicie-Dictionary.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Exercicie-Dictionary\Exercicie-Dictionary\bin\Debug\net8.0\Exercicie-Dictionary.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Exercicie-Dictionary\Exercicie-Dictionary\obj\Debug\net8.0\Exercicie-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Exercicie-Dictionary\Exercicie-Dictionary\obj\Debug\net8.0\Exercicie-Dictionary.AssemblyInfoInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Exercicie-Dictionary\Exercicie-Dictionary\obj\Debug\net8.0\Exercicie-Dictionary.AssemblyInfo.cs
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Exercicie-Dictionary\Exercicie-Dictionary\obj\Debug\net8.0\Exercicie-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Exercicie-Dictionary\Exercicie-Dictionary\obj\Debug\net8.0\Exercicie-Dictionary.sourcelink.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Exercicie-Dictionary\Exercicie-Dictionary\obj\Debug\net8.0\Exercicie-Dictionary.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Exercicie-Dictionary\Exercicie-Dictionary\obj\Debug\net8.0\refint\Exercicie-Dictionary.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Exercicie-Dictionary\Exercicie-Dictionary\obj\Debug\net8.0\Exercicie-Dictionary.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Exercicie-Dictionary\Exercicie-Dictionary\obj\Debug\net8.0\Exercicie-Dictionary.genruntimeconfig.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\Exercicie-Dictionary\Exercicie-Dictionary\obj\Debug\net8.0\ref\Exercicie-Dictionary.dll
