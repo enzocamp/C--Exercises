@@ -1,0 +1,15 @@
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\UsingLinq1\UsingLinq1\bin\Debug\net8.0\UsingLinq1.exe
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\UsingLinq1\UsingLinq1\bin\Debug\net8.0\UsingLinq1.deps.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\UsingLinq1\UsingLinq1\bin\Debug\net8.0\UsingLinq1.runtimeconfig.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\UsingLinq1\UsingLinq1\bin\Debug\net8.0\UsingLinq1.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\UsingLinq1\UsingLinq1\bin\Debug\net8.0\UsingLinq1.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\UsingLinq1\UsingLinq1\obj\Debug\net8.0\UsingLinq1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\UsingLinq1\UsingLinq1\obj\Debug\net8.0\UsingLinq1.AssemblyInfoInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\UsingLinq1\UsingLinq1\obj\Debug\net8.0\UsingLinq1.AssemblyInfo.cs
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\UsingLinq1\UsingLinq1\obj\Debug\net8.0\UsingLinq1.csproj.CoreCompileInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\UsingLinq1\UsingLinq1\obj\Debug\net8.0\UsingLinq1.sourcelink.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\UsingLinq1\UsingLinq1\obj\Debug\net8.0\UsingLinq1.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\UsingLinq1\UsingLinq1\obj\Debug\net8.0\refint\UsingLinq1.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\UsingLinq1\UsingLinq1\obj\Debug\net8.0\UsingLinq1.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\UsingLinq1\UsingLinq1\obj\Debug\net8.0\UsingLinq1.genruntimeconfig.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\UsingLinq1\UsingLinq1\obj\Debug\net8.0\ref\UsingLinq1.dll
