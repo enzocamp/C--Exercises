@@ -1,0 +1,15 @@
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\ComparisonT-CSharp\ComparisonT-CSharp\bin\Debug\net8.0\ComparisonT-CSharp.exe
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\ComparisonT-CSharp\ComparisonT-CSharp\bin\Debug\net8.0\ComparisonT-CSharp.deps.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\ComparisonT-CSharp\ComparisonT-CSharp\bin\Debug\net8.0\ComparisonT-CSharp.runtimeconfig.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\ComparisonT-CSharp\ComparisonT-CSharp\bin\Debug\net8.0\ComparisonT-CSharp.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\ComparisonT-CSharp\ComparisonT-CSharp\bin\Debug\net8.0\ComparisonT-CSharp.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\ComparisonT-CSharp\ComparisonT-CSharp\obj\Debug\net8.0\ComparisonT-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\ComparisonT-CSharp\ComparisonT-CSharp\obj\Debug\net8.0\ComparisonT-CSharp.AssemblyInfoInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\ComparisonT-CSharp\ComparisonT-CSharp\obj\Debug\net8.0\ComparisonT-CSharp.AssemblyInfo.cs
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\ComparisonT-CSharp\ComparisonT-CSharp\obj\Debug\net8.0\ComparisonT-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\ComparisonT-CSharp\ComparisonT-CSharp\obj\Debug\net8.0\ComparisonT-CSharp.sourcelink.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\ComparisonT-CSharp\ComparisonT-CSharp\obj\Debug\net8.0\ComparisonT-CSharp.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\ComparisonT-CSharp\ComparisonT-CSharp\obj\Debug\net8.0\refint\ComparisonT-CSharp.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\ComparisonT-CSharp\ComparisonT-CSharp\obj\Debug\net8.0\ComparisonT-CSharp.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\ComparisonT-CSharp\ComparisonT-CSharp\obj\Debug\net8.0\ComparisonT-CSharp.genruntimeconfig.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\C#\Projetos\CSharp-Exercises\ComparisonT-CSharp\ComparisonT-CSharp\obj\Debug\net8.0\ref\ComparisonT-CSharp.dll

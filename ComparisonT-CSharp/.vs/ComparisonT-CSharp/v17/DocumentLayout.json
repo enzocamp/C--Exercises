@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EnzoF\\OneDrive\\Documentos\\Documento-Pessoal\\C#\\Projetos\\CSharp-Exercises\\ComparisonT-CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{376B313C-47D4-4630-8A14-7FD6A0656BA9}|ComparisonT-CSharp\\ComparisonT-CSharp.csproj|c:\\users\\enzof\\onedrive\\documentos\\documento-pessoal\\c#\\projetos\\csharp-exercises\\comparisont-csharp\\comparisont-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376B313C-47D4-4630-8A14-7FD6A0656BA9}|ComparisonT-CSharp\\ComparisonT-CSharp.csproj|solutionrelative:comparisont-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376B313C-47D4-4630-8A14-7FD6A0656BA9}|ComparisonT-CSharp\\ComparisonT-CSharp.csproj|c:\\users\\enzof\\onedrive\\documentos\\documento-pessoal\\c#\\projetos\\csharp-exercises\\comparisont-csharp\\comparisont-csharp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376B313C-47D4-4630-8A14-7FD6A0656BA9}|ComparisonT-CSharp\\ComparisonT-CSharp.csproj|solutionrelative:comparisont-csharp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\EnzoF\\OneDrive\\Documentos\\Documento-Pessoal\\C#\\Projetos\\CSharp-Exercises\\ComparisonT-CSharp\\ComparisonT-CSharp\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ComparisonT-CSharp\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\EnzoF\\OneDrive\\Documentos\\Documento-Pessoal\\C#\\Projetos\\CSharp-Exercises\\ComparisonT-CSharp\\ComparisonT-CSharp\\Entities\\Product.cs",
+              "RelativeToolTip": "ComparisonT-CSharp\\Entities\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T01:31:49.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EnzoF\\OneDrive\\Documentos\\Documento-Pessoal\\C#\\Projetos\\CSharp-Exercises\\ComparisonT-CSharp\\ComparisonT-CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "ComparisonT-CSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\EnzoF\\OneDrive\\Documentos\\Documento-Pessoal\\C#\\Projetos\\CSharp-Exercises\\ComparisonT-CSharp\\ComparisonT-CSharp\\Program.cs",
+              "RelativeToolTip": "ComparisonT-CSharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:01:49.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
